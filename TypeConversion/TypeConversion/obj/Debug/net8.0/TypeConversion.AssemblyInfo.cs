@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PrimitivesTypesAndExpression")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TypeConversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a101538d570d2367631dcd2930f31de7c784c22e")]
-[assembly: System.Reflection.AssemblyProductAttribute("PrimitivesTypesAndExpression")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PrimitivesTypesAndExpression")]
+[assembly: System.Reflection.AssemblyProductAttribute("TypeConversion")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TypeConversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

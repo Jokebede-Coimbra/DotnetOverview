@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfo.cs
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.sourcelink.json
+D:\C#_projetos\C#\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.exe
+D:\C#_projetos\C#\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.deps.json
+D:\C#_projetos\C#\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.runtimeconfig.json
+D:\C#_projetos\C#\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.dll
+D:\C#_projetos\C#\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.pdb
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.dll
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\refint\TypeConversion.dll
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.pdb
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.genruntimeconfig.cache
+D:\C#_projetos\C#\TypeConversion\TypeConversion\obj\Debug\net8.0\ref\TypeConversion.dll

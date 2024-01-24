@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimitivesTypesAndExpression")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a101538d570d2367631dcd2930f31de7c784c22e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimitivesTypesAndExpression")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimitivesTypesAndExpression")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
