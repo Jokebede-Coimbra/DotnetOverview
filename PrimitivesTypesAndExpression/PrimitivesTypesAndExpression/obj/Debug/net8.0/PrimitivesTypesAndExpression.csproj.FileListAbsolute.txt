@@ -1,0 +1,14 @@
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\bin\Debug\net8.0\PrimitivesTypesAndExpression.exe
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\bin\Debug\net8.0\PrimitivesTypesAndExpression.deps.json
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\bin\Debug\net8.0\PrimitivesTypesAndExpression.runtimeconfig.json
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\bin\Debug\net8.0\PrimitivesTypesAndExpression.dll
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\bin\Debug\net8.0\PrimitivesTypesAndExpression.pdb
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\PrimitivesTypesAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\PrimitivesTypesAndExpression.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\PrimitivesTypesAndExpression.AssemblyInfo.cs
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\PrimitivesTypesAndExpression.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\PrimitivesTypesAndExpression.dll
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\refint\PrimitivesTypesAndExpression.dll
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\PrimitivesTypesAndExpression.pdb
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\PrimitivesTypesAndExpression.genruntimeconfig.cache
+D:\C#_projetos\C#\PrimitivesTypesAndExpression\PrimitivesTypesAndExpression\obj\Debug\net8.0\ref\PrimitivesTypesAndExpression.dll
