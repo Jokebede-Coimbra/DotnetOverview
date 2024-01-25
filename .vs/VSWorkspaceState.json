@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TypeConversion\\TypeConversion"
+    "\\Classes",
+    "\\Classes\\Classes",
+    "\\Classes\\Classes\\exerc\u00EDcio"
   ],
-  "SelectedNode": "\\TypeConversion",
+  "SelectedNode": "\\Classes\\Classes\\exerc\u00EDcio\\Principal.cs",
   "PreviewInSolutionExplorer": false
 }
