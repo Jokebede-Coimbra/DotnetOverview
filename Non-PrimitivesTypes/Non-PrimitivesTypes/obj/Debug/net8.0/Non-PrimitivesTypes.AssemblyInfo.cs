@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Non-PrimitivesTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc5cfda5bcf6b96e04a146627ae82a29dc88d8c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7bab9513a56cd177b148ecb854457790c9ed21")]
 [assembly: System.Reflection.AssemblyProductAttribute("Non-PrimitivesTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Non-PrimitivesTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
