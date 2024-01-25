@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\bin\Debug\net8.0\Non-PrimitivesTypes.exe
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\bin\Debug\net8.0\Non-PrimitivesTypes.deps.json
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\bin\Debug\net8.0\Non-PrimitivesTypes.runtimeconfig.json
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\bin\Debug\net8.0\Non-PrimitivesTypes.dll
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\bin\Debug\net8.0\Non-PrimitivesTypes.pdb
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.AssemblyInfo.cs
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.sourcelink.json
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.dll
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\refint\Non-PrimitivesTypes.dll
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.pdb
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\Non-PrimitivesTypes.genruntimeconfig.cache
+D:\C#_projetos\C#\Non-PrimitivesTypes\Non-PrimitivesTypes\obj\Debug\net8.0\ref\Non-PrimitivesTypes.dll
