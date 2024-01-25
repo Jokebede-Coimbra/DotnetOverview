@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Classes",
-    "\\Classes\\Classes",
-    "\\Classes\\Classes\\exerc\u00EDcio"
+    "\\Classes\\Classes\\exerc\u00EDcio",
+    "\\Triangulo",
+    "\\Triangulo\\Triangulo"
   ],
-  "SelectedNode": "\\Classes\\Classes\\exerc\u00EDcio\\Principal.cs",
+  "SelectedNode": "\\Triangulo\\Triangulo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

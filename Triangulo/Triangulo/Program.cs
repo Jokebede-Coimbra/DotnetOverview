@@ -1,5 +1,6 @@
 ﻿using System.Globalization;
 using Triangulo;
+using System;
 
 internal class Program
 {
@@ -23,11 +24,8 @@ internal class Program
         y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 
-        double p = (x.A + x.B + x.C) / 2.0;
-        double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-        p = (y.A + y.B + y.C) / 2.0;
-        double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+        double areaX = x.Area();
+        double areaY = y.Area();
 
 
         Console.WriteLine("Área de x = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
