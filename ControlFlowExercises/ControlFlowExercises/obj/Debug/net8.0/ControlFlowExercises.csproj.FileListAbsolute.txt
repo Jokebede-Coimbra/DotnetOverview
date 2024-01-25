@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\bin\Debug\net8.0\ControlFlowExercises.exe
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\bin\Debug\net8.0\ControlFlowExercises.deps.json
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\bin\Debug\net8.0\ControlFlowExercises.runtimeconfig.json
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\bin\Debug\net8.0\ControlFlowExercises.dll
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\bin\Debug\net8.0\ControlFlowExercises.pdb
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.AssemblyInfo.cs
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.sourcelink.json
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.dll
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\refint\ControlFlowExercises.dll
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.pdb
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ControlFlowExercises.genruntimeconfig.cache
+D:\C#_projetos\C#\ControlFlowExercises\ControlFlowExercises\obj\Debug\net8.0\ref\ControlFlowExercises.dll
