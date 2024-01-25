@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.exe
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.deps.json
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.runtimeconfig.json
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.dll
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.pdb
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.AssemblyInfo.cs
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.sourcelink.json
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.dll
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\refint\ConditionalStatements.dll
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.pdb
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.genruntimeconfig.cache
+D:\C#_projetos\C#\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ref\ConditionalStatements.dll
