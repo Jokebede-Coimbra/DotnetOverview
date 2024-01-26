@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\bin\Debug\net8.0\WorkingWithDates.exe
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\bin\Debug\net8.0\WorkingWithDates.deps.json
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\bin\Debug\net8.0\WorkingWithDates.runtimeconfig.json
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\bin\Debug\net8.0\WorkingWithDates.dll
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\bin\Debug\net8.0\WorkingWithDates.pdb
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.AssemblyInfo.cs
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.sourcelink.json
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.dll
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\refint\WorkingWithDates.dll
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.pdb
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\WorkingWithDates.genruntimeconfig.cache
+D:\C#_projetos\C#\WorkingWithDates\WorkingWithDates\obj\Debug\net8.0\ref\WorkingWithDates.dll
