@@ -5,9 +5,7 @@
     "\\ConditionalStatements\\ConditionalStatements",
     "\\ControlFlow",
     "\\ControlFlow\\ControlFlow",
-    "\\ControlFlow\\ControlFlow\\bin",
-    "\\Triangulo\\Triangulo"
+    "\\ControlFlow\\ControlFlow\\bin"
   ],
-  "SelectedNode": "\\ControlFlow\\ControlFlow\\Demo.cs",
   "PreviewInSolutionExplorer": false
 }

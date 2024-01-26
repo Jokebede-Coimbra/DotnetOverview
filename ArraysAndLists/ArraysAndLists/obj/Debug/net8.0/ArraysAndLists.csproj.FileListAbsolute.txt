@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.exe
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.deps.json
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.runtimeconfig.json
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.dll
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.pdb
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfo.cs
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.sourcelink.json
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.dll
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\refint\ArraysAndLists.dll
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.pdb
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.genruntimeconfig.cache
+D:\C#_projetos\C#\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ref\ArraysAndLists.dll
