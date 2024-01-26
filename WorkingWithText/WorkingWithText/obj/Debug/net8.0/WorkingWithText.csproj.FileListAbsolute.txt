@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\bin\Debug\net8.0\WorkingWithText.exe
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\bin\Debug\net8.0\WorkingWithText.deps.json
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\bin\Debug\net8.0\WorkingWithText.runtimeconfig.json
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\bin\Debug\net8.0\WorkingWithText.dll
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\bin\Debug\net8.0\WorkingWithText.pdb
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.AssemblyInfo.cs
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.sourcelink.json
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.dll
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\refint\WorkingWithText.dll
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.pdb
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\WorkingWithText.genruntimeconfig.cache
+D:\C#_projetos\C#\WorkingWithText\WorkingWithText\obj\Debug\net8.0\ref\WorkingWithText.dll
