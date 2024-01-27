@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ConditionalStatements",
-    "\\ConditionalStatements\\ConditionalStatements",
-    "\\ControlFlow",
-    "\\ControlFlow\\ControlFlow",
-    "\\ControlFlow\\ControlFlow\\bin"
+    ""
   ],
   "PreviewInSolutionExplorer": false
 }

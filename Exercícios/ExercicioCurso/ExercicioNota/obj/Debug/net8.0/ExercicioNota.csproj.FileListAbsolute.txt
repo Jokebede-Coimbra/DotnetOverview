@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.sourcelink.json
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\bin\Debug\net8.0\ExercicioNota.exe
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\bin\Debug\net8.0\ExercicioNota.deps.json
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\bin\Debug\net8.0\ExercicioNota.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\bin\Debug\net8.0\ExercicioNota.dll
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\bin\Debug\net8.0\ExercicioNota.pdb
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.dll
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\refint\ExercicioNota.dll
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.pdb
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ExercicioNota.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioNota\ExercicioNota\obj\Debug\net8.0\ref\ExercicioNota.dll

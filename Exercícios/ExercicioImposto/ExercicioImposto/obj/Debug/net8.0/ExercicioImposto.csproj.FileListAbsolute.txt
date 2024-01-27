@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.sourcelink.json
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\bin\Debug\net8.0\ExercicioImposto.exe
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\bin\Debug\net8.0\ExercicioImposto.deps.json
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\bin\Debug\net8.0\ExercicioImposto.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\bin\Debug\net8.0\ExercicioImposto.dll
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\bin\Debug\net8.0\ExercicioImposto.pdb
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.dll
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\refint\ExercicioImposto.dll
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.pdb
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ExercicioImposto.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioImposto\ExercicioImposto\obj\Debug\net8.0\ref\ExercicioImposto.dll
