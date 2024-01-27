@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net8.0\ExercicioMembrosEstaticos.exe
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net8.0\ExercicioMembrosEstaticos.deps.json
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net8.0\ExercicioMembrosEstaticos.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net8.0\ExercicioMembrosEstaticos.dll
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net8.0\ExercicioMembrosEstaticos.pdb
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.sourcelink.json
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.dll
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\refint\ExercicioMembrosEstaticos.dll
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.pdb
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ExercicioMembrosEstaticos.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net8.0\ref\ExercicioMembrosEstaticos.dll
