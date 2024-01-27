@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\bin\Debug\net8.0\MembrosEstáticos.exe
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\bin\Debug\net8.0\MembrosEstáticos.deps.json
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\bin\Debug\net8.0\MembrosEstáticos.runtimeconfig.json
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\bin\Debug\net8.0\MembrosEstáticos.dll
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\bin\Debug\net8.0\MembrosEstáticos.pdb
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.AssemblyInfo.cs
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.sourcelink.json
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.dll
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\refint\MembrosEstáticos.dll
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.pdb
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\MembrosEstáticos.genruntimeconfig.cache
+D:\C#_projetos\C#\MembrosEstáticos\MembrosEstáticos\obj\Debug\net8.0\ref\MembrosEstáticos.dll
