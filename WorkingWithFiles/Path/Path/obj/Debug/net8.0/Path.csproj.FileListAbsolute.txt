@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Path\Path\bin\Debug\net8.0\Path.exe
+D:\C#_projetos\C#\Path\Path\bin\Debug\net8.0\Path.deps.json
+D:\C#_projetos\C#\Path\Path\bin\Debug\net8.0\Path.runtimeconfig.json
+D:\C#_projetos\C#\Path\Path\bin\Debug\net8.0\Path.dll
+D:\C#_projetos\C#\Path\Path\bin\Debug\net8.0\Path.pdb
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.AssemblyInfo.cs
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.sourcelink.json
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.dll
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\refint\Path.dll
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.pdb
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\Path.genruntimeconfig.cache
+D:\C#_projetos\C#\Path\Path\obj\Debug\net8.0\ref\Path.dll

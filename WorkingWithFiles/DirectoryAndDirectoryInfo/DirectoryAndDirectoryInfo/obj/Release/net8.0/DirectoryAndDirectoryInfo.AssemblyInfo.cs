@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("DirectoryAndDirectoryInfo")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87cd419a984ab248ea1feceb5dfd271ac6225768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22960c1b93450621a095333aca238af0e1c225d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DirectoryAndDirectoryInfo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DirectoryAndDirectoryInfo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
