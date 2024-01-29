@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.exe
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.deps.json
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.dll
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.pdb
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.sourcelink.json
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.dll
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\refint\DirectoryAndDirectoryInfo.dll
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.pdb
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache
+D:\C#_projetos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\ref\DirectoryAndDirectoryInfo.dll
