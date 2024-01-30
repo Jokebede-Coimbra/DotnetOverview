@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Exerc\u00EDcios",
+    "\\Exerc\u00EDcios\\ExercicioBanco",
+    "\\Exerc\u00EDcios\\ExercicioBanco\\ExercicioBanco"
   ],
+  "SelectedNode": "\\Exerc\u00EDcios\\ExercicioBanco\\ExercicioBanco\\Conta.cs",
   "PreviewInSolutionExplorer": false
 }

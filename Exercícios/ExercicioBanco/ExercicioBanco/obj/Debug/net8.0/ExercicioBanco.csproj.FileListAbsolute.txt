@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.exe
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.deps.json
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.dll
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.pdb
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.sourcelink.json
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.dll
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\refint\ExercicioBanco.dll
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.pdb
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net8.0\ref\ExercicioBanco.dll
