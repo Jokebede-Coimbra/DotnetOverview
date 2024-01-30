@@ -6,8 +6,6 @@ internal class Program
     private static void Main(string[] args)
     {
 
-        Produto p = new Produto("Tv", 500.00, 10);
-
         Console.WriteLine("Entre os dados do produto:");
 
         Console.Write("Nome: ");
