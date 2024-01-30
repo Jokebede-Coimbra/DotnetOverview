@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.exe
+D:\C#_projetos\C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.deps.json
+D:\C#_projetos\C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.runtimeconfig.json
+D:\C#_projetos\C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.dll
+D:\C#_projetos\C#\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.pdb
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfo.cs
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.sourcelink.json
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.dll
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\refint\AutoProperties.dll
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.pdb
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.genruntimeconfig.cache
+D:\C#_projetos\C#\AutoProperties\AutoProperties\obj\Debug\net8.0\ref\AutoProperties.dll
