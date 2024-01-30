@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfo.cs
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.sourcelink.json
+D:\C#_projetos\C#\Construtor\Construtor\bin\Debug\net8.0\Construtor.exe
+D:\C#_projetos\C#\Construtor\Construtor\bin\Debug\net8.0\Construtor.deps.json
+D:\C#_projetos\C#\Construtor\Construtor\bin\Debug\net8.0\Construtor.runtimeconfig.json
+D:\C#_projetos\C#\Construtor\Construtor\bin\Debug\net8.0\Construtor.dll
+D:\C#_projetos\C#\Construtor\Construtor\bin\Debug\net8.0\Construtor.pdb
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.dll
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\refint\Construtor.dll
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.pdb
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.genruntimeconfig.cache
+D:\C#_projetos\C#\Construtor\Construtor\obj\Debug\net8.0\ref\Construtor.dll
