@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\This\This\bin\Debug\net8.0\This.exe
+D:\C#_projetos\C#\This\This\bin\Debug\net8.0\This.deps.json
+D:\C#_projetos\C#\This\This\bin\Debug\net8.0\This.runtimeconfig.json
+D:\C#_projetos\C#\This\This\bin\Debug\net8.0\This.dll
+D:\C#_projetos\C#\This\This\bin\Debug\net8.0\This.pdb
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.AssemblyInfo.cs
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.sourcelink.json
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.dll
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\refint\This.dll
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.pdb
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\This.genruntimeconfig.cache
+D:\C#_projetos\C#\This\This\obj\Debug\net8.0\ref\This.dll
