@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Properties\Properties\bin\Debug\net8.0\Properties.exe
+D:\C#_projetos\C#\Properties\Properties\bin\Debug\net8.0\Properties.deps.json
+D:\C#_projetos\C#\Properties\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+D:\C#_projetos\C#\Properties\Properties\bin\Debug\net8.0\Properties.dll
+D:\C#_projetos\C#\Properties\Properties\bin\Debug\net8.0\Properties.pdb
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.dll
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\refint\Properties.dll
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.pdb
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+D:\C#_projetos\C#\Properties\Properties\obj\Debug\net8.0\ref\Properties.dll
