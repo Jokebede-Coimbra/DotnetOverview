@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.exe
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.deps.json
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.runtimeconfig.json
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.dll
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.pdb
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfo.cs
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.sourcelink.json
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.dll
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\refint\Sobrecarga.dll
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.pdb
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.genruntimeconfig.cache
+D:\C#_projetos\C#\Sobrecarga\Sobrecarga\obj\Debug\net8.0\ref\Sobrecarga.dll
