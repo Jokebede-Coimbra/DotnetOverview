@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net8.0\OperadorCoalescenciaNula.exe
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net8.0\OperadorCoalescenciaNula.deps.json
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net8.0\OperadorCoalescenciaNula.runtimeconfig.json
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net8.0\OperadorCoalescenciaNula.dll
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net8.0\OperadorCoalescenciaNula.pdb
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.AssemblyInfo.cs
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.sourcelink.json
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.dll
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\refint\OperadorCoalescenciaNula.dll
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.pdb
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\OperadorCoalescenciaNula.genruntimeconfig.cache
+D:\C#_projetos\C#\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net8.0\ref\OperadorCoalescenciaNula.dll
