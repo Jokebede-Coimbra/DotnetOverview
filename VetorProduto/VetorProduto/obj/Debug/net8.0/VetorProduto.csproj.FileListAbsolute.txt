@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\VetorProduto\VetorProduto\bin\Debug\net8.0\VetorProduto.exe
+D:\C#_projetos\C#\VetorProduto\VetorProduto\bin\Debug\net8.0\VetorProduto.deps.json
+D:\C#_projetos\C#\VetorProduto\VetorProduto\bin\Debug\net8.0\VetorProduto.runtimeconfig.json
+D:\C#_projetos\C#\VetorProduto\VetorProduto\bin\Debug\net8.0\VetorProduto.dll
+D:\C#_projetos\C#\VetorProduto\VetorProduto\bin\Debug\net8.0\VetorProduto.pdb
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.AssemblyInfo.cs
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.sourcelink.json
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.dll
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\refint\VetorProduto.dll
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.pdb
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\VetorProduto.genruntimeconfig.cache
+D:\C#_projetos\C#\VetorProduto\VetorProduto\obj\Debug\net8.0\ref\VetorProduto.dll
