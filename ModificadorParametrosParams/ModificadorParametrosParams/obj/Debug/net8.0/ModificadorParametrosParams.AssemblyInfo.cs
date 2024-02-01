@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModificadorParametrosParams")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6077c583fe215af38853f2bc1a877ce5d147a038")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b269867e1fb6d223f6a9f76e6cf78376c0ba655f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModificadorParametrosParams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModificadorParametrosParams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

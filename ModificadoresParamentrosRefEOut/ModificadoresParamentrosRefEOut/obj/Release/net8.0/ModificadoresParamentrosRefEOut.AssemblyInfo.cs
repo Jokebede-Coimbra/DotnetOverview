@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModificadoresParamentrosRefEOut")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b269867e1fb6d223f6a9f76e6cf78376c0ba655f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModificadoresParamentrosRefEOut")]
