@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\bin\Debug\net8.0\ModificadorParametrosParams.exe
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\bin\Debug\net8.0\ModificadorParametrosParams.deps.json
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\bin\Debug\net8.0\ModificadorParametrosParams.runtimeconfig.json
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\bin\Debug\net8.0\ModificadorParametrosParams.dll
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\bin\Debug\net8.0\ModificadorParametrosParams.pdb
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.AssemblyInfo.cs
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.sourcelink.json
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.dll
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\refint\ModificadorParametrosParams.dll
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.pdb
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ModificadorParametrosParams.genruntimeconfig.cache
+D:\C#_projetos\C#\ModificadorParametrosParams\ModificadorParametrosParams\obj\Debug\net8.0\ref\ModificadorParametrosParams.dll

@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\bin\Debug\net8.0\ModificadoresParamentrosRefEOut.exe
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\bin\Debug\net8.0\ModificadoresParamentrosRefEOut.deps.json
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\bin\Debug\net8.0\ModificadoresParamentrosRefEOut.runtimeconfig.json
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\bin\Debug\net8.0\ModificadoresParamentrosRefEOut.dll
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\bin\Debug\net8.0\ModificadoresParamentrosRefEOut.pdb
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.AssemblyInfo.cs
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.sourcelink.json
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.dll
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\refint\ModificadoresParamentrosRefEOut.dll
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.pdb
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ModificadoresParamentrosRefEOut.genruntimeconfig.cache
+D:\C#_projetos\C#\ModificadoresParamentrosRefEOut\ModificadoresParamentrosRefEOut\obj\Debug\net8.0\ref\ModificadoresParamentrosRefEOut.dll
