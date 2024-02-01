@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.exe
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.deps.json
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.dll
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.pdb
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.sourcelink.json
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.dll
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\refint\ExercicioLista.dll
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.pdb
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ref\ExercicioLista.dll
