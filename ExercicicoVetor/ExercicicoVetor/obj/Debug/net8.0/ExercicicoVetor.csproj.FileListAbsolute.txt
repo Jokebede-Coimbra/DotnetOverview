@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\bin\Debug\net8.0\ExercicicoVetor.exe
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\bin\Debug\net8.0\ExercicicoVetor.deps.json
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\bin\Debug\net8.0\ExercicicoVetor.runtimeconfig.json
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\bin\Debug\net8.0\ExercicicoVetor.dll
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\bin\Debug\net8.0\ExercicicoVetor.pdb
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.sourcelink.json
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.dll
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\refint\ExercicicoVetor.dll
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.pdb
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ExercicicoVetor.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicicoVetor\ExercicicoVetor\obj\Debug\net8.0\ref\ExercicicoVetor.dll
