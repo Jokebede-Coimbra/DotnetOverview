@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\bin\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.exe
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\bin\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.deps.json
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\bin\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.runtimeconfig.json
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\bin\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.dll
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\bin\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.pdb
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.AssemblyInfo.cs
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.sourcelink.json
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.dll
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\refint\DesafioListaVerificadorDeNumerosPrimos.dll
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.pdb
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\DesafioListaVerificadorDeNumerosPrimos.genruntimeconfig.cache
+D:\C#_projetos\C#\DesafioListaIII\DesafioListaIII\obj\Debug\net8.0\ref\DesafioListaVerificadorDeNumerosPrimos.dll

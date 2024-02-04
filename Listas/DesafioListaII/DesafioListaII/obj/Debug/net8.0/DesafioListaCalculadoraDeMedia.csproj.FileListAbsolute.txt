@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\bin\Debug\net8.0\DesafioListaCalculadoraDeMedia.exe
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\bin\Debug\net8.0\DesafioListaCalculadoraDeMedia.deps.json
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\bin\Debug\net8.0\DesafioListaCalculadoraDeMedia.runtimeconfig.json
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\bin\Debug\net8.0\DesafioListaCalculadoraDeMedia.dll
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\bin\Debug\net8.0\DesafioListaCalculadoraDeMedia.pdb
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.AssemblyInfo.cs
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.sourcelink.json
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.dll
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\refint\DesafioListaCalculadoraDeMedia.dll
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.pdb
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\DesafioListaCalculadoraDeMedia.genruntimeconfig.cache
+D:\C#_projetos\C#\DesafioListaII\DesafioListaII\obj\Debug\net8.0\ref\DesafioListaCalculadoraDeMedia.dll

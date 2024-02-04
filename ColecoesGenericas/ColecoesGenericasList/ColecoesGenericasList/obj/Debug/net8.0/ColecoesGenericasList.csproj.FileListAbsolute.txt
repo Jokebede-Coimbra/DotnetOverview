@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\bin\Debug\net8.0\ColecoesGenericasList.exe
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\bin\Debug\net8.0\ColecoesGenericasList.deps.json
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\bin\Debug\net8.0\ColecoesGenericasList.runtimeconfig.json
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\bin\Debug\net8.0\ColecoesGenericasList.dll
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\bin\Debug\net8.0\ColecoesGenericasList.pdb
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.AssemblyInfo.cs
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.sourcelink.json
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.dll
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\refint\ColecoesGenericasList.dll
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.pdb
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ColecoesGenericasList.genruntimeconfig.cache
+D:\C#_projetos\C#\ColecoesGenericasList\ColecoesGenericasList\obj\Debug\net8.0\ref\ColecoesGenericasList.dll

@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\DesafioLista\DesafioLista\bin\Debug\net8.0\DesafioLista.exe
+D:\C#_projetos\C#\DesafioLista\DesafioLista\bin\Debug\net8.0\DesafioLista.deps.json
+D:\C#_projetos\C#\DesafioLista\DesafioLista\bin\Debug\net8.0\DesafioLista.runtimeconfig.json
+D:\C#_projetos\C#\DesafioLista\DesafioLista\bin\Debug\net8.0\DesafioLista.dll
+D:\C#_projetos\C#\DesafioLista\DesafioLista\bin\Debug\net8.0\DesafioLista.pdb
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.AssemblyInfo.cs
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.sourcelink.json
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.dll
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\refint\DesafioLista.dll
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.pdb
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\DesafioLista.genruntimeconfig.cache
+D:\C#_projetos\C#\DesafioLista\DesafioLista\obj\Debug\net8.0\ref\DesafioLista.dll
