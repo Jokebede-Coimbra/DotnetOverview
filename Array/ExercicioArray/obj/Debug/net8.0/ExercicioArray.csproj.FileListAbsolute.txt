@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\bin\Debug\net8.0\ExercicioArray.exe
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\bin\Debug\net8.0\ExercicioArray.deps.json
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\bin\Debug\net8.0\ExercicioArray.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\bin\Debug\net8.0\ExercicioArray.dll
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\bin\Debug\net8.0\ExercicioArray.pdb
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.sourcelink.json
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.dll
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\refint\ExercicioArray.dll
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.pdb
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ExercicioArray.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioArray\ExercicioArray\obj\Debug\net8.0\ref\ExercicioArray.dll
