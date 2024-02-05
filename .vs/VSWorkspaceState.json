@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ArraysAndLists",
+    "\\ArraysAndLists\\ArraysAndLists",
     "\\Exerc\u00EDcios",
-    "\\Exerc\u00EDcios\\ExercicioBanco",
-    "\\Exerc\u00EDcios\\ExercicioBanco\\ExercicioBanco"
+    "\\Exerc\u00EDcios\\ExercicioArray",
+    "\\Exerc\u00EDcios\\ExercicioArray\\ExercicioArray",
+    "\\Exerc\u00EDcios\\ExercicioBanco\\ExercicioBanco",
+    "\\Generics",
+    "\\Generics\\Generics"
   ],
-  "SelectedNode": "\\Exerc\u00EDcios\\ExercicioBanco\\ExercicioBanco\\Conta.cs",
+  "SelectedNode": "\\Exerc\u00EDcios\\ExercicioArray\\ExercicioArray\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
