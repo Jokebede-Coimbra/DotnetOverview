@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioListaParImpar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589beb7d6b91db8934e675c4066e2555baa53660")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7750115dd2c76eaa0d28cdf3684f7269352f1e58")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioListaParImpar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioListaParImpar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

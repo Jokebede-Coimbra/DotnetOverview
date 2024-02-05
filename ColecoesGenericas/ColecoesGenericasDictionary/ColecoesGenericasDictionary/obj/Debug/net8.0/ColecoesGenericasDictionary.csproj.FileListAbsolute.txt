@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\bin\Debug\net8.0\ColecoesGenericasDictionary.exe
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\bin\Debug\net8.0\ColecoesGenericasDictionary.deps.json
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\bin\Debug\net8.0\ColecoesGenericasDictionary.runtimeconfig.json
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\bin\Debug\net8.0\ColecoesGenericasDictionary.dll
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\bin\Debug\net8.0\ColecoesGenericasDictionary.pdb
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.AssemblyInfo.cs
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.sourcelink.json
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.dll
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\refint\ColecoesGenericasDictionary.dll
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.pdb
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ColecoesGenericasDictionary.genruntimeconfig.cache
+D:\C#_projetos\C#\ColecoesGenericasDictionary\ColecoesGenericasDictionary\obj\Debug\net8.0\ref\ColecoesGenericasDictionary.dll
