@@ -1,15 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ArraysAndLists",
     "\\ArraysAndLists\\ArraysAndLists",
     "\\Exerc\u00EDcios",
-    "\\Exerc\u00EDcios\\ExercicioArray",
-    "\\Exerc\u00EDcios\\ExercicioArray\\ExercicioArray",
-    "\\Exerc\u00EDcios\\ExercicioBanco\\ExercicioBanco",
     "\\Generics",
     "\\Generics\\Generics"
   ],
-  "SelectedNode": "\\Exerc\u00EDcios\\ExercicioArray\\ExercicioArray\\Program.cs",
+  "SelectedNode": "\\Exerc\u00EDcios\\ExercicioArray",
   "PreviewInSolutionExplorer": false
 }

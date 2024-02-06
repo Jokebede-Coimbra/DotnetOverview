@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\bin\Debug\net8.0\ExercicioArrayBidimensional.exe
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\bin\Debug\net8.0\ExercicioArrayBidimensional.deps.json
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\bin\Debug\net8.0\ExercicioArrayBidimensional.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\bin\Debug\net8.0\ExercicioArrayBidimensional.dll
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\bin\Debug\net8.0\ExercicioArrayBidimensional.pdb
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.sourcelink.json
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.dll
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\refint\ExercicioArrayBidimensional.dll
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.pdb
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ExercicioArrayBidimensional.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioArrayBidimensional\ExercicioArrayBidimensional\obj\Debug\net8.0\ref\ExercicioArrayBidimensional.dll
