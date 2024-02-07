@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\bin\Debug\net8.0\ListExpressoesLambdas.exe
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\bin\Debug\net8.0\ListExpressoesLambdas.deps.json
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\bin\Debug\net8.0\ListExpressoesLambdas.runtimeconfig.json
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\bin\Debug\net8.0\ListExpressoesLambdas.dll
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\bin\Debug\net8.0\ListExpressoesLambdas.pdb
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.AssemblyInfo.cs
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.sourcelink.json
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.dll
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\refint\ListExpressoesLambdas.dll
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.pdb
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ListExpressoesLambdas.genruntimeconfig.cache
+D:\C#_projetos\C#\ListExpressoesLambdas\ListExpressoesLambdas\obj\Debug\net8.0\ref\ListExpressoesLambdas.dll
