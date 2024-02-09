@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Random\Random\bin\Debug\net8.0\Random.exe
+D:\C#_projetos\C#\Random\Random\bin\Debug\net8.0\Random.deps.json
+D:\C#_projetos\C#\Random\Random\bin\Debug\net8.0\Random.runtimeconfig.json
+D:\C#_projetos\C#\Random\Random\bin\Debug\net8.0\Random.dll
+D:\C#_projetos\C#\Random\Random\bin\Debug\net8.0\Random.pdb
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.AssemblyInfo.cs
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.sourcelink.json
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.dll
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\refint\Random.dll
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.pdb
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\Random.genruntimeconfig.cache
+D:\C#_projetos\C#\Random\Random\obj\Debug\net8.0\ref\Random.dll
