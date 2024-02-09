@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Indexadores\Indexadores\bin\Debug\net8.0\Indexadores.exe
+D:\C#_projetos\C#\Indexadores\Indexadores\bin\Debug\net8.0\Indexadores.deps.json
+D:\C#_projetos\C#\Indexadores\Indexadores\bin\Debug\net8.0\Indexadores.runtimeconfig.json
+D:\C#_projetos\C#\Indexadores\Indexadores\bin\Debug\net8.0\Indexadores.dll
+D:\C#_projetos\C#\Indexadores\Indexadores\bin\Debug\net8.0\Indexadores.pdb
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.AssemblyInfo.cs
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.sourcelink.json
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.dll
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\refint\Indexadores.dll
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.pdb
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\Indexadores.genruntimeconfig.cache
+D:\C#_projetos\C#\Indexadores\Indexadores\obj\Debug\net8.0\ref\Indexadores.dll
