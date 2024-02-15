@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\bin\Debug\net8.0\HerancaVirtualOverride.exe
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\bin\Debug\net8.0\HerancaVirtualOverride.deps.json
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\bin\Debug\net8.0\HerancaVirtualOverride.runtimeconfig.json
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\bin\Debug\net8.0\HerancaVirtualOverride.dll
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\bin\Debug\net8.0\HerancaVirtualOverride.pdb
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.AssemblyInfo.cs
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.sourcelink.json
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.dll
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\refint\HerancaVirtualOverride.dll
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.pdb
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\HerancaVirtualOverride.genruntimeconfig.cache
+D:\C#_projetos\C#\HerancaVirtualOverride\HerancaVirtualOverride\obj\Debug\net8.0\ref\HerancaVirtualOverride.dll

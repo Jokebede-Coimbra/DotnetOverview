@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Heranca\Heranca\bin\Debug\net8.0\Heranca.exe
+D:\C#_projetos\C#\Heranca\Heranca\bin\Debug\net8.0\Heranca.deps.json
+D:\C#_projetos\C#\Heranca\Heranca\bin\Debug\net8.0\Heranca.runtimeconfig.json
+D:\C#_projetos\C#\Heranca\Heranca\bin\Debug\net8.0\Heranca.dll
+D:\C#_projetos\C#\Heranca\Heranca\bin\Debug\net8.0\Heranca.pdb
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.sourcelink.json
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.dll
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\refint\Heranca.dll
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.pdb
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\Heranca.genruntimeconfig.cache
+D:\C#_projetos\C#\Heranca\Heranca\obj\Debug\net8.0\ref\Heranca.dll
