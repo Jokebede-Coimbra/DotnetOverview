@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\bin\Debug\net8.0\ExercicioColecoes06.exe
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\bin\Debug\net8.0\ExercicioColecoes06.deps.json
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\bin\Debug\net8.0\ExercicioColecoes06.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\bin\Debug\net8.0\ExercicioColecoes06.dll
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\bin\Debug\net8.0\ExercicioColecoes06.pdb
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.sourcelink.json
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.dll
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\refint\ExercicioColecoes06.dll
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.pdb
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ExercicioColecoes06.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioColecoes06\ExercicioColecoes06\obj\Debug\net8.0\ref\ExercicioColecoes06.dll

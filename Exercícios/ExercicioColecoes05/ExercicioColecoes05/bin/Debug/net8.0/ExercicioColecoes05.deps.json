@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicioColecoes05/1.0.0": {
+        "runtime": {
+          "ExercicioColecoes05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioColecoes05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

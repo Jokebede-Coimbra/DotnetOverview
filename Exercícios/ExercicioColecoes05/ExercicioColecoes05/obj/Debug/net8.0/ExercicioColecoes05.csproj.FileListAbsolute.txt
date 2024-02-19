@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.AssemblyInfo.cs
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.sourcelink.json
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\bin\Debug\net8.0\ExercicioColecoes05.exe
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\bin\Debug\net8.0\ExercicioColecoes05.deps.json
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\bin\Debug\net8.0\ExercicioColecoes05.runtimeconfig.json
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\bin\Debug\net8.0\ExercicioColecoes05.dll
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\bin\Debug\net8.0\ExercicioColecoes05.pdb
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.dll
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\refint\ExercicioColecoes05.dll
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.pdb
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ExercicioColecoes05.genruntimeconfig.cache
+D:\C#_projetos\C#\Exercícios\ExercicioColecoes05\ExercicioColecoes05\obj\Debug\net8.0\ref\ExercicioColecoes05.dll

@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exerc\u00EDcios",
     "\\Exerc\u00EDcios\\ExercicioArray",
     "\\Exerc\u00EDcios\\ExercicioArray\\ExercicioArray",
-    "\\Generics",
-    "\\Generics\\Generics"
+    "\\Generics\\Generics",
+    "\\Sobrecarga",
+    "\\Sobrecarga\\Sobrecarga"
   ],
-  "SelectedNode": "\\Exerc\u00EDcios\\ExercicioArray\\ExercicioArray\\Program.cs",
+  "SelectedNode": "\\Sobrecarga\\Sobrecarga\\Produto.cs",
   "PreviewInSolutionExplorer": false
 }
