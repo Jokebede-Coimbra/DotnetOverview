@@ -1,0 +1,15 @@
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\bin\Debug\net8.0\ExercicioHeranca.exe
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\bin\Debug\net8.0\ExercicioHeranca.deps.json
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\bin\Debug\net8.0\ExercicioHeranca.runtimeconfig.json
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\bin\Debug\net8.0\ExercicioHeranca.dll
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\bin\Debug\net8.0\ExercicioHeranca.pdb
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.AssemblyInfoInputs.cache
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.AssemblyInfo.cs
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.csproj.CoreCompileInputs.cache
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.sourcelink.json
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.dll
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\refint\ExercicioHeranca.dll
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.pdb
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ExercicioHeranca.genruntimeconfig.cache
+D:\C#-CleanArchitecture\ExercicioHeranca\ExercicioHeranca\obj\Debug\net8.0\ref\ExercicioHeranca.dll
