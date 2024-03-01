@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModificadorParams")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b5b1764f63fa4083aa8849da7e25933423c80a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fa719d10d0f9643b2670274a8d165fa4cc2929b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModificadorParams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModificadorParams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

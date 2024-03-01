@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\bin\Debug\net8.0\HerancaDowncastingUpcasting.exe
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\bin\Debug\net8.0\HerancaDowncastingUpcasting.deps.json
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\bin\Debug\net8.0\HerancaDowncastingUpcasting.runtimeconfig.json
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\bin\Debug\net8.0\HerancaDowncastingUpcasting.dll
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\bin\Debug\net8.0\HerancaDowncastingUpcasting.pdb
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.AssemblyInfo.cs
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.sourcelink.json
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.dll
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\refint\HerancaDowncastingUpcasting.dll
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.pdb
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\HerancaDowncastingUpcasting.genruntimeconfig.cache
+D:\C#_projetos\C#\HerancaDowncastingUpcasting\HerancaDowncastingUpcasting\obj\Debug\net8.0\ref\HerancaDowncastingUpcasting.dll
