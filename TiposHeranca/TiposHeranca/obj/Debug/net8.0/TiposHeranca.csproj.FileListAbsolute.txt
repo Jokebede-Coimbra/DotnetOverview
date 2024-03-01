@@ -1,0 +1,15 @@
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\bin\Debug\net8.0\TiposHeranca.exe
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\bin\Debug\net8.0\TiposHeranca.deps.json
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\bin\Debug\net8.0\TiposHeranca.runtimeconfig.json
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\bin\Debug\net8.0\TiposHeranca.dll
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\bin\Debug\net8.0\TiposHeranca.pdb
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.AssemblyInfoInputs.cache
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.AssemblyInfo.cs
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.csproj.CoreCompileInputs.cache
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.sourcelink.json
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.dll
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\refint\TiposHeranca.dll
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.pdb
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\TiposHeranca.genruntimeconfig.cache
+D:\C#-CleanArchitecture\TiposHeranca\TiposHeranca\obj\Debug\net8.0\ref\TiposHeranca.dll

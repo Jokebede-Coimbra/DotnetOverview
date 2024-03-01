@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioArrayBidimensional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c8f50fd9c733e92af177a2ee4f0f82c0f1c0b71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a14e1e88240d30412f82b8608386c62d358c8e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioArrayBidimensional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioArrayBidimensional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Indexadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e16f73d1d662bad10fee22923be1e9e594dee439")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a14e1e88240d30412f82b8608386c62d358c8e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Indexadores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Indexadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

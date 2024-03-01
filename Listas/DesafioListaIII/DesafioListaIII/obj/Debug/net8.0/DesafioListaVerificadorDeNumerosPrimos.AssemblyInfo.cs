@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioListaVerificadorDeNumerosPrimos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7750115dd2c76eaa0d28cdf3684f7269352f1e58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a14e1e88240d30412f82b8608386c62d358c8e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioListaVerificadorDeNumerosPrimos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioListaVerificadorDeNumerosPrimos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

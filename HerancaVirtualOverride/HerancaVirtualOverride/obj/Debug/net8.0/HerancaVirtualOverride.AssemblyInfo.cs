@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerancaVirtualOverride")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8656d0f6e060cc58c8b36ef035c8d9001523e2fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a14e1e88240d30412f82b8608386c62d358c8e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerancaVirtualOverride")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerancaVirtualOverride")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

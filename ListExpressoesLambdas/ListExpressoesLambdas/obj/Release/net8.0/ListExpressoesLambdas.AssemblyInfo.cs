@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListExpressoesLambdas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3fcf56f3b4b84e637ab16bfeb5c67366e62f65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a14e1e88240d30412f82b8608386c62d358c8e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListExpressoesLambdas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListExpressoesLambdas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
