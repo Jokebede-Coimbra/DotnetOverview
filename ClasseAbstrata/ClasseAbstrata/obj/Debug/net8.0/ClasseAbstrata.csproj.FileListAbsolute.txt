@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.exe
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.deps.json
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.runtimeconfig.json
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.dll
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net8.0\ClasseAbstrata.pdb
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.AssemblyInfo.cs
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.sourcelink.json
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.dll
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\refint\ClasseAbstrata.dll
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.pdb
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ClasseAbstrata.genruntimeconfig.cache
+D:\C#_projetos\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net8.0\ref\ClasseAbstrata.dll
