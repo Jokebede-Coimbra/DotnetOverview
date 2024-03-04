@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Object carroObj = new Carro();
-        Console.WriteLine("==============Sem usar o operador as==================");
+        Console.WriteLine("==============Sem usar o operador as================");
         try
         {
             var x = (string)carroObj; // exception
@@ -16,7 +16,7 @@ internal class Program
             Console.WriteLine(ex.ToString());
         }
 
-        Console.WriteLine("==============Usando o operador as==================");
+        Console.WriteLine("==============Usando o operador as================");
 
         Object carroObj2 = new Carro();
 
