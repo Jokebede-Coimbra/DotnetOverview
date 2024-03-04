@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\bin\Debug\net8.0\OperadorIsEAs.exe
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\bin\Debug\net8.0\OperadorIsEAs.deps.json
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\bin\Debug\net8.0\OperadorIsEAs.runtimeconfig.json
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\bin\Debug\net8.0\OperadorIsEAs.dll
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\bin\Debug\net8.0\OperadorIsEAs.pdb
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.AssemblyInfo.cs
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.sourcelink.json
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.dll
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\refint\OperadorIsEAs.dll
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.pdb
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\OperadorIsEAs.genruntimeconfig.cache
+D:\C#_projetos\C#\OperadorIsEAs\OperadorIsEAs\obj\Debug\net8.0\ref\OperadorIsEAs.dll
