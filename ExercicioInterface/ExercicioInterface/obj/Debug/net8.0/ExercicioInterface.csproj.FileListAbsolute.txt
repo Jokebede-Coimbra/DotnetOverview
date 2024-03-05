@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.exe
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.deps.json
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.dll
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.pdb
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.sourcelink.json
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.dll
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\refint\ExercicioInterface.dll
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.pdb
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ref\ExercicioInterface.dll
