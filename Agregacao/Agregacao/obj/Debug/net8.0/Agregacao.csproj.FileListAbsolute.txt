@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\Agregacao\Agregacao\bin\Debug\net8.0\Agregacao.exe
+D:\C#_projetos\C#\Agregacao\Agregacao\bin\Debug\net8.0\Agregacao.deps.json
+D:\C#_projetos\C#\Agregacao\Agregacao\bin\Debug\net8.0\Agregacao.runtimeconfig.json
+D:\C#_projetos\C#\Agregacao\Agregacao\bin\Debug\net8.0\Agregacao.dll
+D:\C#_projetos\C#\Agregacao\Agregacao\bin\Debug\net8.0\Agregacao.pdb
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.AssemblyInfo.cs
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.sourcelink.json
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.dll
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\refint\Agregacao.dll
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.pdb
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\Agregacao.genruntimeconfig.cache
+D:\C#_projetos\C#\Agregacao\Agregacao\obj\Debug\net8.0\ref\Agregacao.dll
