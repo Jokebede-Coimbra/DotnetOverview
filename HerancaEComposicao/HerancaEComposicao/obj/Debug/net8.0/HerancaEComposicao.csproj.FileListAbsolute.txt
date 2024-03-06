@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\bin\Debug\net8.0\HerancaEComposicao.exe
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\bin\Debug\net8.0\HerancaEComposicao.deps.json
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\bin\Debug\net8.0\HerancaEComposicao.runtimeconfig.json
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\bin\Debug\net8.0\HerancaEComposicao.dll
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\bin\Debug\net8.0\HerancaEComposicao.pdb
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.AssemblyInfo.cs
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.sourcelink.json
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.dll
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\refint\HerancaEComposicao.dll
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.pdb
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\HerancaEComposicao.genruntimeconfig.cache
+D:\C#_projetos\C#\HerancaEComposicao\HerancaEComposicao\obj\Debug\net8.0\ref\HerancaEComposicao.dll
