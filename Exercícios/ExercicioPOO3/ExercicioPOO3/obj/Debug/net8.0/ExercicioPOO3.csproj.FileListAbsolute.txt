@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\bin\Debug\net8.0\ExercicioPOO3.exe
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\bin\Debug\net8.0\ExercicioPOO3.deps.json
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\bin\Debug\net8.0\ExercicioPOO3.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\bin\Debug\net8.0\ExercicioPOO3.dll
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\bin\Debug\net8.0\ExercicioPOO3.pdb
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.sourcelink.json
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.dll
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\refint\ExercicioPOO3.dll
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.pdb
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ExercicioPOO3.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioPOO3\ExercicioPOO3\obj\Debug\net8.0\ref\ExercicioPOO3.dll
