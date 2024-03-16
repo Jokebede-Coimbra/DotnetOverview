@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\bin\Debug\net8.0\ExercicioPOO5.exe
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\bin\Debug\net8.0\ExercicioPOO5.deps.json
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\bin\Debug\net8.0\ExercicioPOO5.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\bin\Debug\net8.0\ExercicioPOO5.dll
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\bin\Debug\net8.0\ExercicioPOO5.pdb
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.sourcelink.json
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.dll
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\refint\ExercicioPOO5.dll
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.pdb
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ExercicioPOO5.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioPOO5\ExercicioPOO5\obj\Debug\net8.0\ref\ExercicioPOO5.dll

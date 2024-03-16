@@ -1,0 +1,15 @@
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\bin\Debug\net8.0\ExercicioPOO4.exe
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\bin\Debug\net8.0\ExercicioPOO4.deps.json
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\bin\Debug\net8.0\ExercicioPOO4.runtimeconfig.json
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\bin\Debug\net8.0\ExercicioPOO4.dll
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\bin\Debug\net8.0\ExercicioPOO4.pdb
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.AssemblyInfoInputs.cache
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.AssemblyInfo.cs
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.csproj.CoreCompileInputs.cache
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.sourcelink.json
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.dll
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\refint\ExercicioPOO4.dll
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.pdb
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ExercicioPOO4.genruntimeconfig.cache
+D:\C#_projetos\C#\ExercicioPOO4\ExercicioPOO4\obj\Debug\net8.0\ref\ExercicioPOO4.dll
