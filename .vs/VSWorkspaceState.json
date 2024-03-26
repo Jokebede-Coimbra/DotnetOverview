@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Sobrecarga",
+    "\\ColecoesGenericas",
+    "\\Exerc\u00EDcios",
+    "\\Exerc\u00EDcios\\ExercicioColecoes02\\ExercicioColecoes02",
+    "\\Generics\\Generics",
     "\\Sobrecarga\\Sobrecarga"
   ],
-  "SelectedNode": "\\Sobrecarga\\Sobrecarga\\Produto.cs",
+  "SelectedNode": "\\Exerc\u00EDcios\\ExercicioColecoes02",
   "PreviewInSolutionExplorer": false
 }
